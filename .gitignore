@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Data (too large / not ours to redistribute — downloaded via script)
+data/raw/
+data/processed/
+*.wav
+*.mp3
+*.npy
+*.pkl
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

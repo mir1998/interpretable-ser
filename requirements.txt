@@ -1,0 +1,32 @@
+# Core data / ML
+numpy
+pandas
+scikit-learn
+scipy
+
+# Audio
+librosa
+soundfile
+
+# Classic ML models
+xgboost
+catboost
+
+# Deep learning / transformers
+torch
+transformers
+datasets
+
+# Interpretability
+shap
+captum
+
+# Visualization
+matplotlib
+seaborn
+
+# Demo
+gradio
+
+# Notebooks
+jupyter
