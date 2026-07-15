@@ -1,6 +1,6 @@
 # Interpretable Speech Emotion Recognition (SER)
 
-> Detecting **and explaining** emotional stress in real emergency-call speech —
+> Detecting **and explaining** emotional stress in real emergency-call speech -
 > combining classic acoustic-feature ML with a modern `wav2vec2` transformer,
 > and opening the "black box" with interpretability (SHAP · integrated gradients).
 
