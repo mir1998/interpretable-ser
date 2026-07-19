@@ -1,7 +1,7 @@
 # Interpretable Speech Emotion Recognition (SER)
 
-> Two ways to teach a model to hear emotion in a voice — hand-engineered acoustic
-> features vs. a pretrained transformer — and, more importantly, **explaining
+> Two ways to teach a model to hear emotion in a voice - hand-engineered acoustic
+> features vs. a pretrained transformer - and, more importantly, **explaining
 > why it decides what it decides**, using SHAP.
 
 ---
