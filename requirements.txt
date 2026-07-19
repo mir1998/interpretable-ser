@@ -7,26 +7,30 @@ scipy
 # Audio
 librosa
 soundfile
+praat-parselmouth
 
 # Classic ML models
 xgboost
 catboost
+lightgbm
 
-# Deep learning / transformers
+# Deep learning / transformers (Track B)
 torch
 transformers
-datasets
 
 # Interpretability
 shap
-captum
 
 # Visualization
 matplotlib
 seaborn
 
-# Demo
-gradio
-
 # Notebooks
 jupyter
+nbformat
+nbconvert
+
+# Planned / not yet used in this repo:
+# gradio      - for the live demo (not built yet)
+# datasets    - only needed if reproducing the IEMOCAP exploratory work directly
+# captum      - only needed for PyTorch-native interpretability (SHAP covers Track A/B here)
