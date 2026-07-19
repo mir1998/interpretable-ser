@@ -1,14 +1,14 @@
 # Interpretable Speech Emotion Recognition (SER)
 
-> Two ways to teach a model to hear emotion in a voice — hand-engineered acoustic
-> features vs. a pretrained transformer — and, more importantly, **explaining
+> Two ways to teach a model to hear emotion in a voice - hand-engineered acoustic
+> features vs. a pretrained transformer - and, more importantly, **explaining
 > why it decides what it decides**, using SHAP.
 
 ---
 
 ## 🎯 Overview
 
-My research at the Weizmann Institute asked a specific question about **real,
+My research (Weizmann Institute) asked a specific question about **real,
 spontaneous stress**: using SHAP on authentic 911 emergency-call audio, which
 acoustic features actually predict vocal stress, and can we trust the
 explanation? That lab dataset isn't publicly redistributable, so this repo
