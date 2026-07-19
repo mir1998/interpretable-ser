@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-My PhD research (Weizmann Institute) asked a specific question about **real,
+My research (Weizmann Institute) asked a specific question about **real,
 spontaneous stress**: using SHAP on authentic 911 emergency-call audio, which
 acoustic features actually predict vocal stress, and can we trust the
 explanation? That lab dataset isn't publicly redistributable, so this repo
